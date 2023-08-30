@@ -22,7 +22,7 @@ clientid="Discord client id of the bot"
 Packages: Rosu-pp-js, discord.js, osu-db-parser (forked version by me)
 
 # Commands
-``/help /compare /deletedatabase /deleteowndata /stats``
+``/help`` ``/compare`` ``/deletedatabase`` ``/deleteowndata`` ``/stats``
 You can reply to messages to compare with .c or .compare
 Prefix is ``.``
 You can also add beatmap link to the command.
