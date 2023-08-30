@@ -22,8 +22,8 @@ clientid="Discord client id of the bot"
 Packages: Rosu-pp-js, discord.js, osu-db-parser (forked version by me)
 
 # Commands
-``/help`` ``/compare`` ``/deletedatabase`` ``/deleteowndata`` ``/stats``
-You can reply to messages to compare with .c or .compare
-Prefix is ``.``
-You can also add beatmap link to the command.
-Tag a user to see their score if they imported the scores.
+``/help`` ``/compare`` ``/deletedatabase`` ``/deleteowndata`` ``/stats``<br />
+You can reply to messages to compare with .c or .compare<br />
+Prefix is ``.``<br />
+You can also add beatmap link to the command.<br />
+Tag a user to see their score if they imported the scores.<br />
