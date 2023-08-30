@@ -1,7 +1,7 @@
 # osu!score bot
 A discord bot that allows you to import local scores from your osu database and compare scores on it.
 
-#📦 Prerequisites
+# 📦 Prerequisites
 - Node.js v16.11.0 or higher
 - Git
 - Rust
